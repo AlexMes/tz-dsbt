@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+table.tbl_setting
+{
+    margin-bottom: 10px;
+}
+
+table.tbl_setting .input-group
+{
+    width: 100%;
+}
+
+table.tbl_setting td.invoice_date
+{
+    padding-top: 0;
+}
+
+table.tbl_setting td
+{
+    padding: 5px;
+}
+table.tbl_setting td.param_value
+{
+    padding-left: 10px;
+}
+
+#schema_government,
+#schema_corporate
+{
+    margin-top: 30px;
+    padding: 30px 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    position: relative;
+}
